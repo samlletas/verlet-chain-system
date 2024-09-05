@@ -1,6 +1,6 @@
 # Verlet Chain System
 
-Rope/Chain simulation system, ideal for character clothes such as scarfs and capes.
+Rope/Chain simulation system, ideal for character clothes such as scarves and capes.
 
 ![Screenshot](https://github.com/samlletas/verlet-chain-system/assets/7089504/84ceae0c-fe27-4553-9819-7b65b88cbc03)
 
