@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Git hook that enforces the conventional commits specification to commit messages.
 # https://medium.com/yasser-dev/automate-and-enforce-conventional-commits-for-net-based-projects-a322be7a1eb7
